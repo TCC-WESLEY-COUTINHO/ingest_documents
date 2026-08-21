@@ -1,0 +1,26 @@
+[
+  {
+    "file": "ufpi_res_162_16.pdf",
+    "seconds": 5.598,
+    "markdown_chars": 1661,
+    "words": 255,
+    "article_markers": 5,
+    "title_markers": 0,
+    "chapter_markers": 0,
+    "section_markers": 0,
+    "hybrid_chunks": 4,
+    "output_dir": "docling_results\\ufpi_res_162_16"
+  },
+  {
+    "file": "ufpi_res_186_06.pdf",
+    "seconds": 173.113,
+    "markdown_chars": 24615,
+    "words": 3695,
+    "article_markers": 31,
+    "title_markers": 6,
+    "chapter_markers": 0,
+    "section_markers": 0,
+    "hybrid_chunks": 55,
+    "output_dir": "docling_results\\ufpi_res_186_06"
+  }
+]

@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+.env
+.env.*
+.DS_Store
+
+# Dependências e saídas locais dos experimentos
+.tessdata/
+.testdata/
+local_results/
