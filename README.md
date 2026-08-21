@@ -45,19 +45,3 @@ python -m ingest_documents.docling_smoke data/raw/samples/resolucao_089_2018.pdf
 ```
 
 Por padrão, novas execuções escrevem em `local_results/docling_smoke`, uma pasta ignorada pelo Git, para não sobrescrever os artefatos já registrados. Use `--out` para escolher outro destino. Na primeira execução, o Docling pode baixar modelos do Hugging Face.
-
-## Limitações preliminares
-
-A inspeção dos resultados revelou:
-
-- erros de OCR em símbolos jurídicos, incluindo ocorrências em que `§` é reconhecido como `$` ou `8`;
-- erros em algarismos romanos;
-- presença de cabeçalhos e rodapés em chunks;
-- ausência de equivalência garantida entre o Hybrid Chunking e a estratégia jurídica de `1 artigo = 1 chunk`;
-- necessidade de normalização e enriquecimento estrutural específicos para documentos normativos.
-
-## Próxima etapa
-
-> reproduzir automaticamente a estratégia do TCC anterior, na qual o artigo é a unidade primária de recuperação, enriquecida com metadados hierárquicos, utilizando o Docling como camada de Document Intelligence em vez de depender de conversão manual do corpus.
-
-Essa etapa está apenas planejada e não faz parte deste experimento consolidado.
