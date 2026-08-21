@@ -1,0 +1,88 @@
+{
+  "articles_detected": 386,
+  "articles_with_title": 386,
+  "articles_with_chapter": 323,
+  "articles_with_section": 230,
+  "articles_with_subsection": 69,
+  "duplicate_article_numbers": [
+    "210"
+  ],
+  "first_article": "1",
+  "last_article": "388",
+  "abnormally_short_articles": [
+    {
+      "article_number": "11",
+      "characters": 89
+    },
+    {
+      "article_number": "50",
+      "characters": 89
+    },
+    {
+      "article_number": "67",
+      "characters": 69
+    },
+    {
+      "article_number": "114",
+      "characters": 88
+    },
+    {
+      "article_number": "133",
+      "characters": 94
+    },
+    {
+      "article_number": "136",
+      "characters": 97
+    },
+    {
+      "article_number": "137",
+      "characters": 42
+    },
+    {
+      "article_number": "165",
+      "characters": 95
+    },
+    {
+      "article_number": "174",
+      "characters": 84
+    },
+    {
+      "article_number": "180",
+      "characters": 97
+    },
+    {
+      "article_number": "181",
+      "characters": 82
+    },
+    {
+      "article_number": "210",
+      "characters": 86
+    },
+    {
+      "article_number": "299",
+      "characters": 85
+    },
+    {
+      "article_number": "330",
+      "characters": 99
+    },
+    {
+      "article_number": "350",
+      "characters": 77
+    },
+    {
+      "article_number": "371",
+      "characters": 93
+    }
+  ],
+  "abnormally_long_articles": [
+    {
+      "article_number": "388",
+      "characters": 7746
+    }
+  ],
+  "thresholds": {
+    "short_below_characters": 100,
+    "long_above_characters": 5000
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "articles_detected": 43,
+  "articles_with_title": 0,
+  "articles_with_chapter": 0,
+  "articles_with_section": 0,
+  "articles_with_subsection": 0,
+  "duplicate_article_numbers": [
+    "148"
+  ],
+  "first_article": "1",
+  "last_article": "3",
+  "abnormally_short_articles": [
+    {
+      "article_number": "75",
+      "characters": 20
+    },
+    {
+      "article_number": "76",
+      "characters": 20
+    },
+    {
+      "article_number": "77",
+      "characters": 24
+    },
+    {
+      "article_number": "150",
+      "characters": 43
+    },
+    {
+      "article_number": "161",
+      "characters": 23
+    },
+    {
+      "article_number": "294",
+      "characters": 67
+    },
+    {
+      "article_number": "2",
+      "characters": 64
+    }
+  ],
+  "abnormally_long_articles": [],
+  "thresholds": {
+    "short_below_characters": 100,
+    "long_above_characters": 5000
+  }
+}

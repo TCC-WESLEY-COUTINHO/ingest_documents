@@ -1,0 +1,21 @@
+{
+  "articles_detected": 5,
+  "articles_with_title": 0,
+  "articles_with_chapter": 0,
+  "articles_with_section": 0,
+  "articles_with_subsection": 0,
+  "duplicate_article_numbers": [],
+  "first_article": "1",
+  "last_article": "3",
+  "abnormally_short_articles": [
+    {
+      "article_number": "2",
+      "characters": 63
+    }
+  ],
+  "abnormally_long_articles": [],
+  "thresholds": {
+    "short_below_characters": 100,
+    "long_above_characters": 5000
+  }
+}

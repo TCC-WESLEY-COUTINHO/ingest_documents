@@ -1,0 +1,12 @@
+{
+  "file": "data\\raw\\samples\\resolucao_177_2012_cepex.pdf",
+  "seconds": 206.253,
+  "markdown_chars": 264180,
+  "words": 32480,
+  "article_markers": 390,
+  "title_markers": 94,
+  "chapter_markers": 71,
+  "section_markers": 127,
+  "hybrid_chunks": 406,
+  "output_dir": "local_results\\docling_smoke\\resolucao_177_2012_cepex"
+}
